@@ -24,6 +24,12 @@ TODO: Add Basic Introduction. For more, we should link to gettingStarted/introdu
 
 .. toctree::
    :maxdepth: 2
+   :caption: OGP
+
+   OGP/introduction.rst
+
+.. toctree::
+   :maxdepth: 2
    :caption: Smart Contract
 
    smartContract/origins.rst
