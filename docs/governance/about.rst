@@ -41,8 +41,8 @@ Time Lock
  | Max 30 days
  | Grace period: 2 weeks
 
-Staking
--------
+Staking Details
+---------------
 
  | Staking period length: Two weeks, repeating bi-weekly starting from SOV TGE
  | Voting weight equation: :math:`f(x)=V*({m^{2}}-{x^{2}})/{m^{2}}+1`
